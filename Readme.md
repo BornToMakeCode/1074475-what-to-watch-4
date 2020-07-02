@@ -1,7 +1,7 @@
 # Личный проект «Что посмотреть» [![Build status][travis-image]][travis-url]
 
 * Студент: [Sergey Yanacov](https://up.htmlacademy.ru/react/4/user/1074475).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Сергеев](https://htmlacademy.ru/profile/id1205257).
 
 ---
 
